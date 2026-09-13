@@ -5,9 +5,13 @@ I am a sophomore Computer Science student interested in software development, al
 ## Currently learning
 
 C++ and data structures
+
 Python and Flask
+
 Web development
+
 Git and GitHub
+
 Software testing and system design
 
 ## Featured projects
@@ -30,14 +34,24 @@ A task and calendar application project with public privacy policy and visual as
 
 Project: [TaskCalendar public materials](https://github.com/YangShengWen-0505/TaskCalendar-Public)
 
-## Learning timeline
+## Learning history
 
-2026: Started organizing my programming projects and learning history
-2026: Practiced C++ algorithms and online judge problems
-2026: Built a Python and Flask system with testing and continuous integration
+This section records my learning progress and will be updated as I continue my studies.
+
+### 2026
+
+Computer Science study: Continued learning C++ and data structures.
+
+Algorithm practice: Worked on CPE and UVA online judge problems.
+
+Project development: Built a Python and Flask system with testing and continuous integration.
+
+Documentation: Organized project README files and maintained a public GitHub profile.
 
 ## Goals
 
-Build more complete software projects
-Improve problem solving and system design skills
-Contribute to open source projects
+Build more complete software projects.
+
+Improve problem solving and system design skills.
+
+Contribute to open source projects.

@@ -37,3 +37,6 @@ This timeline records my progress during university. It will be extended as I co
 - Systems: Built a Python and Flask application with route planning, background task execution, SQLite storage, and Android integration.
 - Engineering: Added automated testing, linting, compilation checks, and continuous integration with GitHub Actions.
 - Documentation: Organized project README files and began maintaining a structured public development record.
+- Certification: Completed Google's AI for Generalists certificate, covering generative AI, Gemini, NotebookLM, and Google Workspace with Gemini.
+- Training: Completed the AI Integration for Multi-Physics Digital Twin Talent Development Program, totaling 16 hours on June 6-7, 2026.
+- Hackathon: Participated in the AIWave: Taiwan Generative AI Applications Hackathon.

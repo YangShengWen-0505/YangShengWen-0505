@@ -32,11 +32,12 @@ This timeline records my progress during university. It will be extended as I co
 
 ### 2026 | Sophomore year
 
-- Foundations: Continued learning C++ and data structures.
-- Algorithms: Practiced CPE and UVA online judge problems.
-- Systems: Built a Python and Flask application with route planning, background task execution, SQLite storage, and Android integration.
-- Engineering: Added automated testing, linting, compilation checks, and continuous integration with GitHub Actions.
-- Documentation: Organized project README files and began maintaining a structured public development record.
-- Certification: Completed Google's AI for Generalists certificate, covering generative AI, Gemini, NotebookLM, and Google Workspace with Gemini.
-- Training: Completed the AI Integration for Multi-Physics Digital Twin Talent Development Program, totaling 16 hours on June 6-7, 2026.
-- Hackathon: Participated in the AIWave: Taiwan Generative AI Applications Hackathon.
+| Date | Experience | Description |
+| --- | --- | --- |
+| June 6-7, 2026 | AI Digital Twin Training | Completed the AI Integration for Multi-Physics Digital Twin Talent Development Program, totaling 16 hours. |
+| 2026 | Google AI for Generalists | Completed Google's AI for Generalists certificate, covering generative AI, Gemini, NotebookLM, and Google Workspace with Gemini. |
+| August 1-2 | AIWave Hackathon | Participated in the AIWave: Taiwan Generative AI Applications Hackathon. |
+| 2026 | Algorithm Practice | Continued learning C++ and practicing CPE and UVA online judge problems. |
+| 2026 | System Development | Built a Python and Flask application with route planning, background task execution, SQLite storage, and Android integration. |
+| 2026 | Engineering Practice | Added automated testing, linting, compilation checks, and continuous integration with GitHub Actions. |
+| 2026 | Documentation | Organized project README files and began maintaining a structured public development record. |

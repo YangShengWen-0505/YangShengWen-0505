@@ -1,57 +1,43 @@
 # Yang Sheng-Wen
 
-I am a sophomore Computer Science student interested in software development, algorithms, and practical applications.
+Computer Science Student | Learning through projects, algorithms, and continuous improvement
 
-## Currently learning
+## Personal positioning
 
-C++ and data structures
+I am a sophomore Computer Science student building a foundation in software development, algorithms, and system design. My current direction combines C++, Python, web development, backend systems, and practical software testing.
 
-Python and Flask
+I prefer learning by turning coursework and ideas into working projects. I use GitHub as a long-term portfolio and as a record of how my skills, projects, and engineering habits develop over time.
 
-Web development
+My current technical areas include:
 
-Git and GitHub
+- C++ and data structures
+- Algorithms and online judge practice
+- Python and Flask web development
+- SQLite, API design, and system architecture
+- Software testing, code quality, and GitHub Actions
 
-Software testing and system design
+## Selected projects
 
-## Featured projects
+### [Mock GPS Follow Live Nav](https://github.com/YangShengWen-0505/mock-gps-follow-live-nav)
 
-### Mock GPS Follow Live Nav
+A Python and Flask based GPS simulation and live navigation tracking system. The project integrates route planning, asynchronous mission execution, SQLite persistence, Tailscale networking, and Android testing tools.
 
-A Python and Flask based GPS simulation and real time navigation tracking system using Google Maps Directions API, SQLite, Tailscale, and Android integration.
+### [CPE and UVA Solutions](https://github.com/YangShengWen-0505/CPE)
 
-Project: [Mock GPS Follow Live Nav](https://github.com/YangShengWen-0505/mock-gps-follow-live-nav)
+A collection of C++ solutions for CPE and UVA online judge problems. The repository is organized as a record of algorithm practice and problem-solving progress.
 
-### CPE and UVA Solutions
+### [TaskCalendar](https://github.com/YangShengWen-0505/TaskCalendar-Public)
 
-A collection of C++ solutions for CPE and UVA online judge problems, organized by difficulty and problem category.
+A task and calendar application project with public documentation and supporting materials.
 
-Project: [CPE and UVA Solutions](https://github.com/YangShengWen-0505/CPE)
+## Learning timeline
 
-### TaskCalendar
+This timeline records my progress during university. It will be extended as I complete new courses, projects, and experiments.
 
-A task and calendar application project with public privacy policy and visual assets.
+### 2026 | Sophomore year
 
-Project: [TaskCalendar public materials](https://github.com/YangShengWen-0505/TaskCalendar-Public)
-
-## Learning history
-
-This section records my learning progress and will be updated as I continue my studies.
-
-### 2026
-
-Computer Science study: Continued learning C++ and data structures.
-
-Algorithm practice: Worked on CPE and UVA online judge problems.
-
-Project development: Built a Python and Flask system with testing and continuous integration.
-
-Documentation: Organized project README files and maintained a public GitHub profile.
-
-## Goals
-
-Build more complete software projects.
-
-Improve problem solving and system design skills.
-
-Contribute to open source projects.
+- Foundations: Continued learning C++ and data structures.
+- Algorithms: Practiced CPE and UVA online judge problems.
+- Systems: Built a Python and Flask application with route planning, background task execution, SQLite storage, and Android integration.
+- Engineering: Added automated testing, linting, compilation checks, and continuous integration with GitHub Actions.
+- Documentation: Organized project README files and began maintaining a structured public development record.

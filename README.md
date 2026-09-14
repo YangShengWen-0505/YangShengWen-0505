@@ -26,10 +26,6 @@ A Python and Flask based GPS simulation and live navigation tracking system. The
 
 A collection of C++ solutions for CPE and UVA online judge problems. The repository is organized as a record of algorithm practice and problem-solving progress.
 
-### [TaskCalendar](https://github.com/YangShengWen-0505/TaskCalendar-Public)
-
-A task and calendar application project with public documentation and supporting materials.
-
 ## Learning timeline
 
 This timeline records my progress during university. It will be extended as I complete new courses, projects, and experiments.

@@ -8,21 +8,13 @@ I am a sophomore Computer Science student building a foundation in software deve
 
 I prefer learning by turning coursework and ideas into working projects. I use GitHub as a long-term portfolio and as a record of how my skills, projects, and engineering habits develop over time.
 
-My current technical areas include:
-
-- C++ and data structures
-- Algorithms and online judge practice
-- Python and Flask web development
-- SQLite, API design, and system architecture
-- Software testing, code quality, and GitHub Actions
-
 ## Selected projects
 
 ### [Mock GPS Follow Live Nav](https://github.com/YangShengWen-0505/mock-gps-follow-live-nav)
 
 A Python and Flask based GPS simulation and live navigation tracking system. The project integrates route planning, asynchronous mission execution, SQLite persistence, Tailscale networking, and Android testing tools.
 
-### [CPE and UVA Solutions](https://github.com/YangShengWen-0505/CPE)
+### [CPE](https://github.com/YangShengWen-0505/CPE)
 
 A collection of C++ solutions for CPE and UVA online judge problems. The repository is organized as a record of algorithm practice and problem-solving progress.
 

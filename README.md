@@ -18,15 +18,16 @@ A Python and Flask based GPS simulation and live navigation tracking system. The
 
 A collection of C++ solutions for CPE and UVA online judge problems. The repository is organized as a record of algorithm practice and problem-solving progress.
 
-## Learning timeline
+## Competitions and Hackathons
 
-This timeline records my progress during university. It will be extended as I complete new courses, projects, and experiments.
+| Date | Event | Description | Evidence |
+| --- | --- | --- | --- |
+| August 1-2, 2026 | AIWave Hackathon | Participated in the AIWave: Taiwan Generative AI Applications Hackathon. | [Certificate](https://github.com/YangShengWen-0505/YangShengWen-0505/blob/main/certificates/aiwave-hackathon-certificate.pdf) |
+| September 4-6, 2026 | FUTUREMODE Taiwan Future Festival — BUILDMODE GEN-AI HACKATHON | Participated in a three-day AI hackathon, collaborating on development, project submission, and final presentation. | [Official event page](https://www.futuremode.xyz/hackathon) |
 
-### 2026 | Sophomore year
+## Certifications and Training
 
-| Date | Experience | Description | Evidence |
+| Date | Certification or Training | Description | Evidence |
 | --- | --- | --- | --- |
 | June 6-7, 2026 | AI Digital Twin Training | Completed the AI Integration for Multi-Physics Digital Twin Talent Development Program, totaling 16 hours. | [Certificate](https://github.com/YangShengWen-0505/YangShengWen-0505/blob/main/certificates/ai-digital-twin-training-certificate.pdf) |
 | June-August 2026 | Google AI for Generalists | Completed Google's AI for Generalists certificate as part of the 2026 Digital Talent Exploration Program. | [English certificate](https://github.com/YangShengWen-0505/YangShengWen-0505/blob/main/certificates/google-ai-for-generalists-english.jpg) / [Chinese certificate](https://github.com/YangShengWen-0505/YangShengWen-0505/blob/main/certificates/google-ai-for-generalists-chinese.jpg) |
-| August 1-2, 2026 | AIWave Hackathon | Participated in the AIWave: Taiwan Generative AI Applications Hackathon. | [Certificate](https://github.com/YangShengWen-0505/YangShengWen-0505/blob/main/certificates/aiwave-hackathon-certificate.pdf) |
-| September 4-6, 2026 | FUTUREMODE Taiwan Future Festival — BUILDMODE GEN-AI HACKATHON | Participated in a three-day AI hackathon, collaborating on development, project submission, and final presentation. | [Official event page](https://www.futuremode.xyz/hackathon) |

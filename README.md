@@ -35,6 +35,7 @@ A collection of C++ solutions for CPE and UVA online judge problems. The reposit
 | --- | --- | --- | --- |
 | August 1-2, 2026 | AIWave Hackathon | Participated in the AIWave: Taiwan Generative AI Applications Hackathon. | [Certificate](https://github.com/YangShengWen-0505/YangShengWen-0505/blob/main/certificates/aiwave-hackathon-certificate.pdf) |
 | September 4-6, 2026 | FUTUREMODE Taiwan Future Festival — BUILDMODE GEN-AI HACKATHON | Participated in a three-day AI hackathon, collaborating on development, project submission, and final presentation. | [Certificate](https://github.com/YangShengWen-0505/YangShengWen-0505/blob/main/certificates/futuremode-buildmode-hackathon-certificate.pdf) / [Official event page](https://www.futuremode.xyz/hackathon) |
+| October 14, 2026 (submission) | HOTAI AI Hackathon 2026 (和泰 AI 黑客松) | Participated as team 淡大虎, submitting the project "AI Smart Fleet: Safer, More Fuel-Efficient Driving." | [Certificate](https://github.com/YangShengWen-0505/YangShengWen-0505/blob/main/certificates/hotai-ai-hackathon-certificate.pdf) |
 
 
 ## Certifications and Training

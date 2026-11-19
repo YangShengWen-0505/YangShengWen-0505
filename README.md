@@ -19,10 +19,10 @@ I prefer learning by turning coursework and ideas into working projects. I use G
 ### [Mock GPS Follow Live Nav](https://github.com/YangShengWen-0505/mock-gps-follow-live-nav)
 
 
-A Python and Flask based GPS simulation and live navigation tracking system. The project integrates route planning, asynchronous mission execution, SQLite persistence, Tailscale networking, and Android testing tools.
+A Python and Flask based GPS simulation and live navigation tracking system. The project integrates route planning, asynchronous mission execution, SQLite persistence, Tailscale networking, and Android testing tools. It is intended for development and testing of navigation and location-tracking features.
 
 
-### [CPE](https://github.com/YangShengWen-0505/CPE)
+### [Competitive Programming](https://github.com/YangShengWen-0505/CompetitiveProgramming)
 
 
 A collection of C++ solutions for CPE and UVA online judge problems. The repository is organized as a record of algorithm practice and problem-solving progress.
